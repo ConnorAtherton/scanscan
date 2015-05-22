@@ -1,0 +1,24 @@
+{
+  "name": "scanscan",
+  "version": "0.0.1",
+  "description": "A small node port scanner",
+  "main": "dist/scanscan.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ConnorAtherton/scanscan"
+  },
+  "keywords": [
+    "port",
+    "scan"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "headway": "^0.3.0",
+    "minimist": "^1.1.1"
+  }
+}
